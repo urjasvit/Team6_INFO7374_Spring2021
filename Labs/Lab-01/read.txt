@@ -1,4 +1,0 @@
-1. Google BigQuery tutorial
-2. SnowFlake and Einstein Analytics
-3. Churn Prediction using LSTM
-4. XSV Tutorial
