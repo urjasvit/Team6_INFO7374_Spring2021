@@ -1,0 +1,17 @@
+
+create or replace table marketdb.public.Merge (
+  Date date,
+  Weekday integer,
+  Holiday string,
+  Month integer,
+  Day integer,
+  Year int
+);
+
+create table marketdb.public.Merger as (
+select ss_sales_price, ss_net_profit, ss_quantity, s_state, s_city, I_CATEGORY, I_CLASS, I_Product_NAME, marketdb.public.merge.Date, marketdb.public.merge.Holiday
+  from store_sales join store on s_store_sk = ss_store_sk
+  join item on I_ITEM_SK = SS_ITEM_SK
+  join date_dim on ss_sold_date_sk = d_date_sk                
+  join marketdb.public.merge on d_date= marketdb.public.merge.Date
+);
