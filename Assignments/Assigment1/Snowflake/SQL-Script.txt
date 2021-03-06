@@ -1,0 +1,8 @@
+create table marketdb.public.QuestionOne as(
+ select I_Product_NAME, I_CATEGORY, I_CLASS, SS_SALES_PRICE, SS_NET_PROFIT, ss_quantity, cd_marital_status, cd_gender, cd_education_status, s_city, s_state, s_store_name, ca_city, ca_state, d_date
+ from store_sales ss left join store s on s.s_store_sk = ss.ss_store_sk 
+  left join customer_demographics cd on cd.cd_demo_sk=ss.ss_cdemo_sk 
+  left join customer_address ca on ca.CA_ADDRESS_SK=ss.SS_ADDR_SK 
+  left join date_dim on ss_sold_date_sk = d_date_sk
+  left join item i on I_ITEM_SK=SS_ITEM_SK
+);
