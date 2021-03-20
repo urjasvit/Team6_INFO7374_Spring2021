@@ -4,7 +4,7 @@ https://docs.google.com/document/d/1M-f149cti62Vnwghjp218aIWhd5QBpLfiqpQLshiVrU/
 
 https://codelabs-preview.appspot.com/?file_id=1M-f149cti62Vnwghjp218aIWhd5QBpLfiqpQLshiVrU#0
 
-CLV: Calculating Customer Lifetimes
+CLV: Calculating Customer Lifetimes(Databricks)
 
 https://docs.google.com/document/d/1Jr1zJtzQ8OZTAfM7TVNgFN-MRzOnxbKlGKv1q1NrPSs/edit#
 
