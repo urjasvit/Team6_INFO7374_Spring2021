@@ -6,7 +6,9 @@
 
 •Implement Visual Search algorithms
 
-•Implement Similarity Search•To be able to implement search with ElasticSearch
+•Implement Similarity Search
+
+•To be able to implement search with ElasticSearch
 
 •Evaluate design decisions
 
