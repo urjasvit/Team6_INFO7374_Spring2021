@@ -2,7 +2,7 @@
 
 Work with Salesforce to understand the influence of various variables on sales and study various attribution models in marketing industry.
 
-CLAAT Document:
+CLAT Document:
 
 https://codelabs-preview.appspot.com/?file_id=1WTl_DgOk29SIe2lGTfnt94EPS64dhGJYyxwDdThJO5M#5
 
