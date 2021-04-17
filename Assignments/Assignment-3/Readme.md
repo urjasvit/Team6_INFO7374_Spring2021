@@ -8,6 +8,10 @@ Clat Document
 
 https://codelabs-preview.appspot.com/?file_id=1Weh6rwPNaHNxR4NLMMwDYztwmjms3mWcA9q_Z0rkwlg#0
 
+Heroku Link
+
+https://myapp-03.herokuapp.com/
+
 **IMPLEMENTING ELASTIC SEARCH BY SCALE**
 
 **Goals** 
