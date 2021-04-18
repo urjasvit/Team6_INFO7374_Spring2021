@@ -12,6 +12,8 @@ Heroku Link
 
 https://myapp-03.herokuapp.com/
 
+Assignment3.ipnyb contains the implementation of all the algorithms.
+
 **IMPLEMENTING ELASTIC SEARCH BY SCALE**
 
 **Goals** 
