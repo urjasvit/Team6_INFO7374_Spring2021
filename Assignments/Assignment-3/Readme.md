@@ -8,9 +8,9 @@ Clat Document
 
 https://codelabs-preview.appspot.com/?file_id=1Weh6rwPNaHNxR4NLMMwDYztwmjms3mWcA9q_Z0rkwlg#0
 
-Heroku Link
+Deployment link
 
-https://myapp-03.herokuapp.com/
+https://share.streamlit.io/urjasvit/try/main/streamlit.py
 
 Assignment3.ipnyb contains the implementation of all the algorithms.
 
