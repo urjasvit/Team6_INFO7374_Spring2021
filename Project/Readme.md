@@ -56,4 +56,4 @@ Here in this section we will look at some of the customer retention metrics appl
 
 To see how the model behaves when it is put to test, we will execute our test programmatically and report the statistics behind it. For that we will create our own dataset and evaluate different possibilities and evaluate results.
 
-
+Deployment Link: https://share.streamlit.io/urjasvit/proj/main/streamlit.py
