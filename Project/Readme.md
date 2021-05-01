@@ -42,11 +42,12 @@ The goal of customer segmentation in marketing is to accurately segment customer
 ![image](https://user-images.githubusercontent.com/25616463/115968999-af0b3200-a508-11eb-89b5-7940537beb8c.png)
 
 
-**Churn Prediction**
+**Customer Retention Metrics**
 
 We can know our best customers by segmentation and lifetime value prediction, we should also work hard on retaining them. That is why retention rate is one of the most critical metrics.
+Customer retention measurement refers to the steps taken to uncover and document how well a business is retaining customers.Organizations track success in this area to see how well they are meeting customer needs and if they are continuing to earn their business over time. 
 
-We will use the churn prediction to forecast the potential churn rate of a particular customer which will allow the bank to target those individuals in an attempt to prevent them from churning. It will also help the bank to get a better understanding of the expected revenue and allow them to identify areas of improvement where the customer services are lacking.
+Here in this section we will look at some of the customer retention metrics applicable to retaining their customers from previous campaigns and we will compare between them.
 
 ![image](https://user-images.githubusercontent.com/25616463/115969018-d235e180-a508-11eb-9bcc-6cc04c17f8ec.png)
 
