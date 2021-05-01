@@ -1,5 +1,10 @@
 **DATA DRIVEN MARKETING CAMPAIGN**
 
+Google Document link:  https://docs.google.com/document/d/11BTPVjhLBjqAOkuNMwqoC7e5SJr7otwuiVliR092pA8/edit#heading=h.fmgdyd5iuj2h
+
+Clat Documentation: https://codelabs-preview.appspot.com/?file_id=11BTPVjhLBjqAOkuNMwqoC7e5SJr7otwuiVliR092pA8#3
+
+
 **Overview**
 
 Marketing campaigns are generally characterized by focusing on customer needs and their overall satisfaction.
@@ -66,4 +71,9 @@ Deployment Link: https://share.streamlit.io/urjasvit/proj/main/streamlit.py
 ![image](https://user-images.githubusercontent.com/25616463/116770107-37a93700-aa0f-11eb-99e3-f24211286018.png)
 
 ![image](https://user-images.githubusercontent.com/25616463/116770113-41329f00-aa0f-11eb-9edc-faed68b75f2c.png)
+
+
+**BI REPORTING AND DASHBOARDS**
+The Tableau Dashboards are generated as below:
+
 
